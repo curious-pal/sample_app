@@ -18,8 +18,8 @@ RSpec	- Язык для написания тестов для Ruby. Совмещен вместе с программой "rspec"
 ## Работа с GIT
 
 В отличии от Subversion GIT сохраняет в два приема:
--git commit - локальная фиксация изменений
--git push - отправка изменений на сервер*
++git commit - локальная фиксация изменений
++git push - отправка изменений на сервер
 
 git init
 Initialized empty Git repository in /.../rails_projects/first_app/.git/												
